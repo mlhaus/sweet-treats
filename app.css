@@ -1,0 +1,14 @@
+h1 {
+  font-family: "Josefin Sans",sans-serif;
+  font-size: 6vw;
+  color: #B21C19;
+  text-align:center;
+}
+
+header {
+  background-color: #BCE3FF;
+  background-image:url("cupcakes.jpg");
+  padding: 20vw 2em 0 2em;
+  background-position: center center;
+  background-size: cover;
+}
